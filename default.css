@@ -1,0 +1,31 @@
+
+body{background-color:blue;}
+
+p {
+  margin: 34;
+  color: red;
+  background: blue;
+}
+
+.row {
+  margin: 0;
+}
+
+.articles {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.article {
+  color: #222;
+  background: rgba(255,255,255,.9);
+  border-spacing: 2px;
+  border-color: gray;
+  font-family: arial,sans-serif;
+  border-bottom: 1px #e5e5e5 solid;
+}
+
+div {color:black;text-align:center;}
+
+
+
